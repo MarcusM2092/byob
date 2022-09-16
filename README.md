@@ -123,6 +123,11 @@ packages not installed on the target machines
 8) __Handler__ (`byob.core.handler`): HTTP POST request handler for remote file uploads to the server
 
 ________________________________________________________________________________________________
+##Useful Sites
+https://github.com/malwaredllc/byob/issues/451
+https://github.com/malwaredllc/byob/wiki/Starting-the-Server
+
+
 
 ### To Do
 
